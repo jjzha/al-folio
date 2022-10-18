@@ -26,7 +26,7 @@ the <a href="https://mainlp.github.io"><u>MaiNLP Lab</u></a> at
 <a href="https://www.cis.uni-muenchen.de/ueber_uns/index.html"><u>CIS</u></a> (Center for Information
 and Language Processing) at the Ludwig Maximilian University of Munich (LMU).
 
-In Spring 2023, I will be a Research Intern at <a href="https://wing.comp.nus.edu.sg"><u>WING</u></a> (Web Information
+In Spring 2023, I will be visiting <a href="https://wing.comp.nus.edu.sg"><u>WING</u></a> (Web Information
 Retrieval & Natural Language Processing Group) at the National University of Singapore, advised by Prof.
 <a href="https://www.comp.nus.edu.sg/~kanmy/"><u>Min-Yen Kan</u></a>. I will work on NLP and IR related to job descriptions and related text sources.
 
