@@ -26,13 +26,8 @@ the <a href="https://mainlp.github.io"><u>MaiNLP Lab</u></a> at
 <a href="https://www.cis.uni-muenchen.de/ueber_uns/index.html"><u>CIS</u></a> (Center for Information
 and Language Processing) at the Ludwig Maximilian University of Munich (LMU).
 
-I am currently visiting <a href="https://wing.comp.nus.edu.sg"><u>WING</u></a> (Web Information
-Retrieval & Natural Language Processing Group) at the National University of Singapore, advised by Prof.
-<a href="https://www.comp.nus.edu.sg/~kanmy/"><u>Min-Yen Kan</u></a>. I will work on NLP and IR related to job descriptions and related text sources.
-
 My main focus is working on automated high-quality Information Extraction from unstructured text with real-life use cases that have societal impact.
 In my case, I am working on Skill Extraction for Job Market Understanding, where I'm aiming to get a bigger picture 
 of the labour market to aid in, e.g., re-skilling the workforce.
-My other interests include tricks and approaches to get more labeled training data and/or exploit models for tasks with limited data —
-this includes Active Learning, Weak Supervision, and Transfer Learning.
+My other interests include Active Learning, Domain Adaptation, Retrieval Augmentation.
 
