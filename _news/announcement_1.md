@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-06
+date: 2023-06-27
 inline: true
 ---
 
-Two papers accepted at EMNLP 2022!
+I'll be visiting the <a href="https://nlp.epfl.ch/">EPFL NLP Group</a> in Fall 2023.
