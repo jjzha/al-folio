@@ -6,7 +6,7 @@ title: Mike Zhang # the website title (if blank, full name will be used instead)
 first_name: Mike
 middle_name:
 last_name: Zhang
-email: you@example.com
+email: mikz@itu.dk
 description:
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -30,8 +30,8 @@ highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-them
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
-repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: light       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: default           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -99,7 +99,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-5CN5XRG5PB # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
