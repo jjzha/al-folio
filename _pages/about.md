@@ -6,10 +6,9 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mike_zhang.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>3E13</p>
     <p>Rued Langgaards Vej 7, 2300,</p>
     <p>Copenhagen, Denmark</p>
 
