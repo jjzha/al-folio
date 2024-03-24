@@ -24,4 +24,4 @@ advised by Prof. <a href="http://bplank.github.io"><u>Barbara Plank</u></a> and 
 I am interested in:
   - **NLP for Education**: Can we improve students' learning by giving them automatic feedback from NLP tools (e.g., language models)? How can we do this over time?
   - **NLP for HR**: How can we extract relevant skills from job ads and in what way can we match them with existing taxonomies to assist job centers matching candidates to jobs better?
-  - My expertise is mostly on resource creation, developing annotation guidelines for data annotation, (multilingual) datasets creation in general and specific domains, and language model training on small and large scale.
+  - **Expertise**: My knowledge is mostly on resource creation, developing annotation guidelines for data annotation, (multilingual) datasets creation in general and specific domains, and language model training on small and large scale.
