@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-01-22
+date: 2024-02-15
 inline: true
 ---
 
-5 papers accepted at EACL 2024 (1 main, 1 findings, 3 workshop)! See you there!
+I started my Postdoc at Aalborg University working on NLP for Education!
